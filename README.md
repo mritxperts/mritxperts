@@ -2,8 +2,8 @@
 
 ### Hi there,<img src="https://github.com/mritxperts/react_dev/blob/main/hand.gif" width="30" height="30" />
 
-Full stack developer@ [Itxperts](https://www.itxperts.co.in) <br>
-Co-fouder@[Itxperts](https://www.itxperts.co.in)
+Vikram is a <b><font color="red">Full Stack Developer</font></b> & <b><font color="green">Co-Founder</font> @ [Itxperts](https://www.itxperts.co.in)</b> <br>
+
 
 
 ### My Projects 
