@@ -1,4 +1,4 @@
-<img src="https://github.com/mritxperts/itxperts/blob/main/26992196_1571445459619154_6810414508171136699_n.jpg" width="900" height="350" />
+<img src="https://github.com/mritxperts/itxperts/blob/main/26992196_1571445459619154_6810414508171136699_n.jpg" width="800" height="350" />
 
 ### Hi there,<img src="https://github.com/mritxperts/itxperts/blob/main/hand.gif" width="30" height="30" />
 
